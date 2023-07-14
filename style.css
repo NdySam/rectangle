@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.rectangle{
+    width: 200px;
+    height: 100px;
+    margin-top: 5rem;
+    margin-left: 15rem;
+    background: red;
+}
